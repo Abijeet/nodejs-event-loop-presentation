@@ -238,7 +238,7 @@ var ElementTracer = [
     { display : "none", fn : "handleDownloadSong"}
   ],
   [
-	// everythis is over.
+	// everything is over.
     { display : "none", position : { y : 170, x : 0 }, fn : "handleCodeTrace" },
     { display : "none", fn : "handleV8Convo" },
     { display : "none", fn : "handleLibuvConvo" },
